@@ -31,7 +31,7 @@ You can find here:
 
 ## 🔗 Connect with me  
 - GitHub: [github.com/zey606](https://github.com/zey606)  
-- LinkedIn: [linkedin.com/in/…](https://linkedin.com/in/…)  
+- LinkedIn: [linkedin.com/in/Zeynep Özen](https://www.linkedin.com/in/zeynep-%C3%B6zen-864459349/)  
 - Instagram (engineering content): [instagram.com/606ozen707](https://instagram.com/606ozen707)  
 
 ---
