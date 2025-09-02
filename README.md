@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Zeynep 👋  
 
-<!--
-**zey606/zey606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical & Electronics Engineering Student @ Istanbul Sabahattin Zaim University  
+📚 Second Major: Management Information Systems @ Istanbul University  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Interests & Focus  
+- 🤖 Robotics  
+- ⚡ Electronic Circuit Design  
+- 💻 Embedded Systems  
+- 🖥️ Software Development  
+
+---
+
+## 🌱 Currently Learning  
+- Arduino & Embedded C/C++
+- Python for robotics and automation  
+- ROS (Robot Operating System)  
+- Project Management basics  
+
+---
+
+## 📂 Projects  
+You can find here:  
+- Academic & personal projects  
+- Experimental works  
+- My learning journey  
+
+---
+
+## 🔗 Connect with me  
+- GitHub: [github.com/zey606](https://github.com/zey606)  
+- LinkedIn: [linkedin.com/in/…](https://linkedin.com/in/…)  
+- Instagram (engineering content): [instagram.com/606ozen707](https://instagram.com/606ozen707)  
+
+---
+
+⭐️ *“Combining technical expertise with a managerial perspective to shape the future.”*  
+
