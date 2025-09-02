@@ -78,7 +78,7 @@ Here you’ll find:
 
 ### 🎓 Hakkımda  
 - 🎓 **İstanbul Sabahattin Zaim Üniversitesi**'nde Elektrik & Elektronik Mühendisliği öğrencisi  
-- 📚 Yan Dal: **İstanbul Üniversitesi Yönetim Bilişim Sistemleri**  
+- 📚 İkinci Üniversite: **İstanbul Üniversitesi Yönetim Bilişim Sistemleri**  
 - ⭐ Teknik uzmanlığı **yönetsel becerilerle** birleştirerek değerli projeler üretmeye tutkulu  
 
 ---
