@@ -3,7 +3,7 @@
 
 ---
 
-### 🎓 About Me  [Türkçe](#-türkçe-sürüm)
+### 🎓 About Me  [Türkçe için tıkla!](#-türkçe-sürüm)
 - 🎓 Electrical & Electronics Engineering Student @ **Istanbul Sabahattin Zaim University**  
 - 📚 Second Major: **Management Information Systems** @ Istanbul University  
 - ⭐ Passionate about combining **technical expertise** with **managerial skills** to create impactful projects  
